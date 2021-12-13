@@ -1,0 +1,9 @@
+*.pid
+*.swp
+# do not track output directory since it will be rebuild by Netlify
+output/
+__pycache__/
+# This is a PyCharm-specific directory. Delete it if you're not using PyCharm
+.idea/
+.DS_Store
+
