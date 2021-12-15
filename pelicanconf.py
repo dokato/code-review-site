@@ -4,7 +4,7 @@
 AUTHOR = 'DK'
 SITENAME = 'Code Review Workshop '
 SITEURL = ''
-SITESUBTITLE = '(for scientists)'
+SITESUBTITLE = '(for researchers)'
 SITEDATE = '03 Feb 2022'
 PATH = 'content'
 
