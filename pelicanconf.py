@@ -5,7 +5,7 @@ AUTHOR = 'DK'
 SITENAME = 'Code Review Workshop '
 SITEURL = ''
 SITESUBTITLE = '(for researchers)'
-SITEDATE = '03 Feb 2022'
+SITEDATE = '10 Feb 2022'
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'

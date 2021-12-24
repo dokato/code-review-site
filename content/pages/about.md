@@ -22,7 +22,7 @@ We expect from you just 2 things
 
 # Agenda
 
-The workshop happens on Thursday (03 Feb 2022). Save the date!
+The workshop happens on Thursday (10 Feb 2022). Save the date!
 
 10:00 - 10:10am - Opening statement
 
