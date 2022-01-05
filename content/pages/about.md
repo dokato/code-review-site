@@ -4,11 +4,22 @@ save_as: index.html
 
 # About the workshop
 
-Do you want to improve the quality of your code and level up your software skills? If the answer is yes, this workshop is for you!
+Code review is a fsantastic development practice that helps improving the quality, and the maintainability of a 
+software project, whilst also fostering collaboration, and effective team work.
+The concept of the Code review (a.k.a. [_Peer Code Review_](https://en.wikipedia.org/wiki/Code_review)) is pretty simple: 
+people (usually referred to as _reviewers_) read and check a software program by reading its source code in order to 
+find possible defects, and to improve its overall quality.
 
-Code review is a software quality assurance activity where people check a program by viewing and reading parts of its source code. It is a wonderful opportunity to get immediate feedback on your code from your colleagues.
+Code Review is one of the pillars of [open source development](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews), and we 
+believe that this should also be the case for **Research Software**. 
 
-You will learn what the code review actually is, how to provide useful feedback, what are the most popular tools for performing reviews, and finally you’ll have a chance to get feedback on your piece of code. The content will be delivered by experienced research software engineers and during practical sessions you will get guidance from our mentors.
+In this workshop we want to encourage the adoption of Code Review as a standard development practice for any researcher
+and practitioner who is interested in improving the quality of their code, and levelling up their software skills.
+
+You will learn what Code review is, how it works, and what are some of the best practice to deliver it effectively. 
+During the workshop, you will hear from experts and will work together with experienced Research Sofware Engineers 
+in practical sessions to assess the quality of code snippets gathered from existing open research software, or you 
+can bring your own code, and get immediate feedback on it!
 
 # Who is it for?
 
