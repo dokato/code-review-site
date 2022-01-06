@@ -4,7 +4,7 @@ save_as: index.html
 
 # About the workshop
 
-Code review is a fsantastic development practice that helps improving the quality, and the maintainability of a 
+Code review is a fantastic development practice that helps improving the quality, and the maintainability of a 
 software project, whilst also fostering collaboration, and effective team work.
 The concept of the Code review (a.k.a. [_Peer Code Review_](https://en.wikipedia.org/wiki/Code_review)) is pretty simple: 
 people (usually referred to as _reviewers_) read and check a software program by reading its source code in order to 
@@ -16,10 +16,9 @@ believe that this should also be the case for **Research Software**.
 In this workshop we want to encourage the adoption of Code Review as a standard development practice for any researcher
 and practitioner who is interested in improving the quality of their code, and levelling up their software skills.
 
-You will learn what Code review is, how it works, and what are some of the best practice to deliver it effectively. 
+You will learn what *code review* is, how it works, and what are some of the best practice to deliver it effectively in the academic setting. 
 During the workshop, you will hear from experts and will work together with experienced Research Sofware Engineers 
-in practical sessions to assess the quality of code snippets gathered from existing open research software, or you 
-can bring your own code, and get immediate feedback on it!
+in practical sessions to assess the quality of code snippets gathered from existing open research software!
 
 # Who is it for?
 
@@ -33,7 +32,7 @@ We expect from you just 2 things
 
 # Agenda
 
-The workshop happens on Thursday (10 Feb 2022). Save the date!
+The workshop happens on **Thursday (10 Feb 2022)**. Save the date!
 
 10:00 - 10:10am - Opening statement
 
