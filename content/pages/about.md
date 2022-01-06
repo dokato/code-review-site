@@ -13,12 +13,9 @@ find possible defects, and to improve its overall quality.
 Code Review is one of the pillars of [open source development](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews), and we 
 believe that this should also be the case for **Research Software**. 
 
-In this workshop we want to encourage the adoption of Code Review as a standard development practice for any researcher
-and practitioner who is interested in improving the quality of their code, and levelling up their software skills.
+In this workshop we want to encourage the adoption of Code Review as a standard development practice for any researcher and practitioner who is interested in improving the quality of their code, and levelling up their software skills.
 
-You will learn what *code review* is, how it works, and what are some of the best practice to deliver it effectively in the academic setting. 
-During the workshop, you will hear from experts and will work together with experienced Research Sofware Engineers 
-in practical sessions to assess the quality of code snippets gathered from existing open research software!
+You will learn what Code review is, how it works, and what are some of the best practice to deliver it effectively. During the workshop, you will hear from experts and will work together with experienced Research Sofware Engineers in practical sessions to assess the quality of code snippets gathered from existing open research software.
 
 # Who is it for?
 
@@ -46,8 +43,10 @@ The workshop happens on **Thursday (10 Feb 2022)**. Save the date!
 
 # Speakers
 
-TBA soon
+Dr. Tiziano Zito - research software engineer at Humboldt University in Berlin, member of the German Neuroinformatics Node of the INCF, and organiser of the annual [Advanced Scientific Programming in Python](https://aspp.school/wiki/) summer school.
+
+Dr. Zbigniew Jędrzejewski-Szmek - open source developer with background in physics and neuroscience. Currently works at Red Hat.
 
 # Registration
 
-Please register with this link.
+[Please register HERE!](https://www.eventbrite.com/e/code-review-workshop-for-researchers-tickets-239938692087)
