@@ -43,10 +43,12 @@ The workshop happens **online** (via Zoom) on **Thursday (10 Feb 2022)**. Save t
 
 # Speakers
 
+Dr. Thibault Lestang - a computational scientist and research software engineer. His research focuses on bridging the gap between software engineering and academic research. One of the cofounders of the Oxford Code Review Network.
+
 Dr. Tiziano Zito - research software engineer at Humboldt University in Berlin, member of the German Neuroinformatics Node of the INCF, and organiser of the annual [Advanced Scientific Programming in Python](https://aspp.school/wiki/) summer school.
 
 Dr. Zbigniew Jędrzejewski-Szmek - open source developer with background in physics and neuroscience. Currently works at Red Hat.
 
 # Registration
 
-[Please register HERE!](https://www.eventbrite.com/e/code-review-workshop-for-researchers-tickets-239938692087)
+**[Please register HERE!](https://www.eventbrite.com/e/code-review-workshop-for-researchers-tickets-239938692087)**
