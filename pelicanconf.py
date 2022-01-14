@@ -20,7 +20,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Software Sustainability Institute', 'https://www.software.ac.uk/'),
+LINKS = (
+   ('Software Sustainability Institute', 'https://www.software.ac.uk/'),
+   ('Article: Code Review For and By Scientists', 'https://arxiv.org/pdf/1407.5648.pdf')
 )
 
 # Social widget
