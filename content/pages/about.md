@@ -39,7 +39,7 @@ The workshop happens **online** (via Zoom) on **Thursday (10 Feb 2022)**. Save t
 
 11:20 - 11:30am - break
 
-11:30 - 01:00pm - Hands-on session in small group
+11:30 - 01:00pm - Hands-on session in small groups
 
 # Speakers
 
