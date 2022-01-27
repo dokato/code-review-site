@@ -41,6 +41,8 @@ The workshop happens **online** (via Zoom) on **Thursday (10 Feb 2022)**. Save t
 
 11:30 - 01:00pm - Hands-on session in small groups
 
+(all hours in GMT time zone; London)
+
 # Speakers
 
 Dr. Thibault Lestang - a computational scientist and research software engineer. His research focuses on bridging the gap between software engineering and academic research. One of the cofounders of the Oxford Code Review Network.
