@@ -22,7 +22,9 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
    ('Software Sustainability Institute', 'https://www.software.ac.uk/'),
-   ('Article: Code Review For and By Scientists', 'https://arxiv.org/pdf/1407.5648.pdf')
+   ('Article: Code Review For and By Scientists', 'https://arxiv.org/pdf/1407.5648.pdf'),
+   ('Constructive Code Critique', 'https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique'),
+   ('Code of Conduct', 'https://www.software.ac.uk/programmes-and-events/code-conduct')
 )
 
 # Social widget
