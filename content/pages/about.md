@@ -59,6 +59,4 @@ The workshop happens **online** (via Zoom) on **Thursday (10 Feb 2022)**. Save t
 
 # Registration
 
-~~[Please register HERE!](https://www.eventbrite.com/e/code-review-workshop-for-researchers-tickets-239938692087)~~
-
 (We're sold out, sorry :(, more events TBA soon.)
