@@ -39,18 +39,26 @@ The workshop happens **online** (via Zoom) on **Thursday (10 Feb 2022)**. Save t
 
 11:20 - 11:30am - break
 
-11:30 - 01:00pm - Hands-on session in small groups
+11:30 - 12:30pm - Hands-on session in small groups
+
+12:30 - 13:00pm - Wrap-up talk, Q & A
 
 (all hours in GMT time zone; London)
 
 # Speakers
 
-Dr. Thibault Lestang - a computational scientist and research software engineer. His research focuses on bridging the gap between software engineering and academic research. One of the cofounders of the Oxford Code Review Network.
+**Dr. Thibault Lestang** - a computational scientist and research software engineer. His research focuses on bridging the gap between software engineering and academic research. One of the cofounders of the Oxford Code Review Network.
 
-Dr. Tiziano Zito - research software engineer at Humboldt University in Berlin, member of the German Neuroinformatics Node of the INCF, and organiser of the annual [Advanced Scientific Programming in Python](https://aspp.school/wiki/) summer school.
+**Dr. Tiziano Zito** - research software engineer at Humboldt University in Berlin, member of the German Neuroinformatics Node of the INCF, and organiser of the annual [Advanced Scientific Programming in Python](https://aspp.school/wiki/) summer school.
 
-Dr. Zbigniew Jędrzejewski-Szmek - open source developer with background in physics and neuroscience. Currently works at Red Hat.
+**Dr. Zbigniew Jędrzejewski-Szmek** - open source developer with background in physics and neuroscience. Currently works at Red Hat, in Warsaw.
+
+**Dr. Dominik Krzemiński** - computational neuroscientists at FlyConnectome project at University of Cambridge; organiser of R enthusiasts meet-ups, frequent open-source contributor and SSI Fellow.
+
+**Dr. Valerio Maggio** - senior research associate at Bristol Medical School, interested in machine learning for healthcare and environment; promotes reproducibility and reproducible science at SSI.
 
 # Registration
 
-**[Please register HERE!](https://www.eventbrite.com/e/code-review-workshop-for-researchers-tickets-239938692087)**
+~~[Please register HERE!](https://www.eventbrite.com/e/code-review-workshop-for-researchers-tickets-239938692087)~~
+
+(We're sold out, sorry :(, more events TBA soon.)
