@@ -29,7 +29,7 @@ We expect from you just 2 things
 
 # Agenda
 
-The workshop happens **online** (via Zoom) on **Thursday (10 Feb 2022)**. Save the date!
+The workshop happened **online** (via Zoom) on **Thursday (10 Feb 2022)**.
 
 10:00 - 10:10am - Opening statement
 
