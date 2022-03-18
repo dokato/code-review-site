@@ -60,3 +60,8 @@ The workshop happened **online** (via Zoom) on **Thursday (10 Feb 2022)**.
 # Registration
 
 (We're sold out, sorry :(, more events TBA soon.)
+
+# Contact
+
+Do you want to talk about code reviews in academic context? Are you interested in organising such event at your institution? Get in touch with one of us:
+[Thibault](https://tlestang.github.io/), [Valerio](https://research-information.bris.ac.uk/en/persons/valerio-maggio), [Dominik](https://dokato.github.io/). 
